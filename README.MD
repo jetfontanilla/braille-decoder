@@ -4,12 +4,12 @@ The input will consistent of an array of 2x6 space-delimited Braille characters.
 
 Ex: This Input translates to helloworld
 
-O. O. O. O. O. .O O. O. O. OO 
-OO .O O. O. .O OO .O OO O. .O
-.. .. O. O. O. .O O. O. O. ..
+	O. O. O. O. O. .O O. O. O. OO 
+	OO .O O. O. .O OO .O OO O. .O
+	.. .. O. O. O. .O O. O. O. ..
 
 Print the transcribed braille below to get the code!
 
-.O O. .O OO O. O. .O OO O. OO O. .O O. .O 
-O. .O O. .. .. OO OO .. .. .. OO OO .O OO 
-O. O. O. O. .. O. O. O. OO .. .. .O O. .O 
+	.O O. .O OO O. O. .O OO O. OO O. .O O. .O 
+	O. .O O. .. .. OO OO .. .. .. OO OO .O OO 
+	O. O. O. O. .. O. O. O. OO .. .. .O O. .O 
